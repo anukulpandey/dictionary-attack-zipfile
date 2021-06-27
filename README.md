@@ -39,6 +39,6 @@ Run script
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@anukulpandey](https://www.github.com/anukulpandey)
 
   
